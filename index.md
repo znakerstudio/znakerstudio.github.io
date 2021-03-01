@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Znaker Studio</title>
-</head>
 <body>
 <h1>Znaker Studio</h1>
 <p>I'm hosted with GitHub Pages. :)</p>
